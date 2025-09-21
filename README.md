@@ -9,3 +9,6 @@
 1. text
 2. text
 ---
+[links](https://google.com)
+---
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/deinserver)
