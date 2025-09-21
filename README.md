@@ -1,3 +1,4 @@
-https://discord.com/channels/1418345223565873204/1418661254041702551/1418661287109464116
+https://raw.githubusercontent.com/croxyrzz/Rules/refs/heads/main/404d44728065564cdaf896783864299f.gif
+
 
 # Rules
