@@ -9,6 +9,8 @@
 1. text
 2. text
 ---
+![Emoji](assets/meinEmoji.png) Text
+---
 [links](https://google.com)
 ---
 [![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/deinserver)
@@ -18,4 +20,3 @@
 ```python```
 print("Hello World")
 ---
-[![Banner](https://link-zu-deinem-bild.png)](https://example.com)
