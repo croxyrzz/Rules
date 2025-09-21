@@ -2,3 +2,10 @@
 
 
 # Rules
+---
+- text
+- text
+---
+1. text
+2. text
+---
