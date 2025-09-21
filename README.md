@@ -2,14 +2,14 @@
 
 
 # Rules
+## Rules
+### Rules
 ---
 - text
 - text
 ---
 1. text
 2. text
----
-![Emoji](assets/meinEmoji.png) Text
 ---
 [links](https://google.com)
 ---
