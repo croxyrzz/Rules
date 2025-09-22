@@ -26,33 +26,40 @@ print("Hello World")
 
 
 
-Willkommen auf **Café Nova!** <a:purple:1418655513150754866>
+# Willkommen zu den Regeln von **Café Nova!**
 
-Damit sich alle wohlfühlen können, gelten hier verbindliche Regeln. <:rules3:1418644389206429767> 
-Lies sie sorgfältig durch und halte dich daran. <a:alarm:1418655582575136790>
+`Damit sich alle wohlfühlen können, gelten hier verbindliche Regeln.`
 
+`Lies sie sorgfältig durch und halte dich daran.`
 
-<:1_:1418640690245668945>**Allgemeines**
-__Diese Grundregeln gelten unabhängig vom Kanal, der Rolle oder dem Kontext.__
+---
 
-<a:animatedarrowpurple:1418655555542847639> __Die Discord Terms of Service & Community Guidelines sind bindend:__
-<a:animatedarrowpurple:1418655555542847639> __Jeder Nutzer ist verpflichtet, sich an die offiziellen Discord-Regeln zu halten:__
-ㅤㅤ<:down_right_iarrow:1418644391106445363> [Terms of Service](https://discord.com/terms)
-ㅤㅤ<:down_right_iarrow:1418644391106445363> [Community Guidelines](https://discord.com/guidelines)
+## **Allgemeines**
+***Diese Grundregeln gelten unabhängig vom Kanal, der Rolle oder dem Kontext.***
 
-<a:animatedarrowpurple:1418655555542847639> __Mindestalter: Die Nutzung von Discord ist ab 13 Jahren erlaubt. __
+Die **Discord Terms of Service & Community Guidelines** sind bindend:
+Jeder Nutzer ist verpflichtet, sich an die offiziellen Discord-Regeln zu halten:
 
-<a:animatedarrowpurple:1418655555542847639> __Illegale Inhalte und Aktivitäten sind verboten, darunter:__
-ㅤㅤ<:down_right_iarrow:1418644391106445363>  Hacking, Cracking, Doxxing, IP-Leaks
-ㅤㅤ<:down_right_iarrow:1418644391106445363> Urheberrechtsverletzungen / Raubkopien
-ㅤㅤ<:down_right_iarrow:1418644391106445363> Drogenhandel / Förderung illegaler Substanzen
-ㅤㅤ<:down_right_iarrow:1418644391106445363> Nutzung von nicht genehmigten Drittanbieter-Bots, Hacks oder Scripts
-
-<a:animatedarrowpurple:1418655555542847639> __Mehrfach-Accounts (Alts) und Account-Sharing sind nicht erlaubt.__
+ㅤㅤ- [Terms of Service](https://discord.com/terms)  
+ㅤㅤ- [Community Guidelines](https://discord.com/guidelines)
 
 
+**Mindestalter: Die Nutzung von Discord ist ab 13 Jahren erlaubt.**
 
-<:2_:1418640326314164344>**Verhalten & Kommunikation**
+
+**Illegale Inhalte und Aktivitäten sind verboten, darunter:**  
+
+ㅤㅤ`- Hacking, Cracking, Doxxing, IP-Leaks`  
+ㅤㅤ`- Urheberrechtsverletzungen / Raubkopien`  
+ㅤㅤ`- Drogenhandel / Förderung illegaler Substanzen`  
+ㅤㅤ`- Nutzung von nicht genehmigten Drittanbieter-Bots, Hacks oder Scripts`
+
+
+**Mehrfach-Accounts (Alts) und Account-Sharing sind nicht erlaubt.**
+
+---
+
+## **Verhalten & Kommunikation**
 __Wir setzen auf ein respektvolles und faires Miteinander. Wer stört, fliegt.__
 
 <a:animatedarrowpurple:1418655555542847639> __Respekt ist oberstes Gebot.__
