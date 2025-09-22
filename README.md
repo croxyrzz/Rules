@@ -28,8 +28,7 @@ print("Hello World")
 
 # Willkommen zu den Regeln von **Café Nova!**
 
-`Damit sich alle wohlfühlen können, gelten hier verbindliche Regeln.`
-
+`Damit sich alle wohlfühlen können, gelten hier verbindliche Regeln.`  
 `Lies sie sorgfältig durch und halte dich daran.`
 
 ---
@@ -60,14 +59,16 @@ Jeder Nutzer ist verpflichtet, sich an die offiziellen Discord-Regeln zu halten:
 ---
 
 ## **Verhalten & Kommunikation**
-__Wir setzen auf ein respektvolles und faires Miteinander. Wer stört, fliegt.__
+***Wir setzen auf ein respektvolles und faires Miteinander. Wer stört, fliegt.***
 
-<a:animatedarrowpurple:1418655555542847639> __Respekt ist oberstes Gebot.__
-<a:animatedarrowpurple:1418655555542847639> __Freundlichkeit, Rücksicht und Toleranz sind Grundpfeiler unseres Miteinanders.__
+Respekt ist oberstes Gebot.
+Freundlichkeit, Rücksicht und Toleranz sind Grundpfeiler unseres Miteinanders.
 
-<a:animatedarrowpurple:1418655555542847639> __Diskriminierung jeglicher Art ist strengstens untersagt, z. B. aufgrund von:__
-ㅤㅤ<:down_right_iarrow:1418644391106445363> Herkunft, Hautfarbe, Geschlecht, Identität, Sexualität
-ㅤㅤ<:down_right_iarrow:1418644391106445363> Religion, Weltanschauung, psychischer oder physischer Gesundheit
+**Diskriminierung jeglicher Art ist strengstens untersagt, z. B. aufgrund von:**
+
+ㅤㅤ`- Herkunft, Hautfarbe, Geschlecht, Identität, Sexualität`  
+ㅤㅤ`- Religion, Weltanschauung, psychischer oder physischer Gesundheit`  
+
 
 <a:animatedarrowpurple:1418655555542847639> __Beleidigungen, Provokationen und Trolling werden nicht toleriert__
 ㅤㅤ__ – auch nicht "aus Spaß".__
