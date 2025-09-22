@@ -27,14 +27,14 @@ print("Hello World")
 
 
 
-# Willkommen zu den Regeln von **Café Nova!**
+# Willkommen zu den Regeln von Café Nova!
 
 `Damit sich alle wohlfühlen können, gelten hier verbindliche Regeln.`  
 `Lies sie sorgfältig durch und halte dich daran.`
 
 ---
 
-## **Allgemeines**
+## Allgemeines
 ***Diese Grundregeln gelten unabhängig vom Kanal, der Rolle oder dem Kontext.***
 
 Die **Discord Terms of Service & Community Guidelines** sind bindend:
@@ -59,7 +59,7 @@ Jeder Nutzer ist verpflichtet, sich an die offiziellen Discord-Regeln zu halten:
 
 ---
 
-## **Verhalten & Kommunikation**
+## Verhalten & Kommunikation
 ***Wir setzen auf ein respektvolles und faires Miteinander. Wer stört, fliegt.***
 
 Respekt ist oberstes Gebot.
